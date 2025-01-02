@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/7a8ea417-84f4-40f8-abcd-9cb1bae19861)# STUDY OF BASIC GATES
+![image](https://github.com/user-attachments/assets/7a8ea417-84f4-40f8-abcd-9cb1bae19861)
+# STUDY OF BASIC GATES
 # DATE : 26-09-2024
 **AIM:** 
 
