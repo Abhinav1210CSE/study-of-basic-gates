@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a8ea417-84f4-40f8-abcd-9cb1bae19861)
+
 # STUDY OF BASIC GATES
 # DATE : 26-09-2024
 **AIM:** 
@@ -90,10 +90,9 @@ endmodule;
 **Logic symbol & Truthtable**
 
 
-![image](https://github.com/user-attachments/assets/d125dfef-fefe-4ffd-a123-d1e2fd460e4c)
 
 
-
+![image](https://github.com/user-attachments/assets/7a8ea417-84f4-40f8-abcd-9cb1bae19861)
 
 
 
@@ -102,7 +101,12 @@ endmodule;
 **RTL realization Output:** 
 
 
-![Uploading image.png…]()
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/d125dfef-fefe-4ffd-a123-d1e2fd460e4c)
 
 
 
